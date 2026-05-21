@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-api-publish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node .api/construindoAPI-7.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasRSilva-code/NodeJS-Publish-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasRSilva-code/NodeJS-Publish-API/issues"
+  },
+  "homepage": "https://github.com/LucasRSilva-code/NodeJS-Publish-API#readme"
+}
