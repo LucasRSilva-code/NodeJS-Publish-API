@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node .api/construindoAPI-7.js"
+    "start": "node .api/construindoAPI-7.js"
   },
   "repository": {
     "type": "git",
