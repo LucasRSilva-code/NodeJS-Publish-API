@@ -6,8 +6,8 @@ let pedidos = [
     {
         id: 1,
         cliente: "Lucas",
-        produto: "Cartinha",
-        status: "pendente, precisa de mais para conquistar!!"
+        produto: "Tempo",
+        status: "Falta"
     },
 ]
 

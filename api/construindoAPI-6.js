@@ -7,9 +7,9 @@ const url = require('url');
 let pedidos = [
     {
         id: 1,
-        cliente: 'Gabriel',
-        produto: 'Nord',
-        status: 'pendente'
+        cliente: 'Lucas',
+        produto: 'Tempo',
+        status: 'Falta'
     }
 ]
 
